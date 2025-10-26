@@ -103,4 +103,4 @@ Contributions are welcome! Open an issue or submit a PR with your improvements.
 
 ## 💡 Author
 
-Made with ❤️ by [CodeWithMuh](https://github.com/codewithmuh)
+Made with ❤️ by [Sadeem-Asim](http://sadeemasim.dev/)
